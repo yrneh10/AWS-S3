@@ -1,4 +1,4 @@
-name: Terraform ECS CI/CD Deploy
+name: Terraform S3 CI/CD Deploy
 
 on:
   push:
